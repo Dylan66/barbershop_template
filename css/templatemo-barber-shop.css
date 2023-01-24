@@ -501,6 +501,7 @@ strong {
   display: block;
   margin: auto;
   transition: all 0.3s;
+  
 }
 
 .services-thumb-price {
@@ -525,7 +526,7 @@ strong {
 }
 
 .services-info h4 {
-  color: var(--black-color);
+  color: var(--custom-btn-bg-color);
 }
 
 
