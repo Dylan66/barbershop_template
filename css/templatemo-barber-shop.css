@@ -22,7 +22,7 @@ https://templatemo.com/tm-585-barber-shop
   --border-color:                 #7fffd4;
   --link-hover-color:             #b9b07e;
 
-  --body-font-family:             'Unbounded', cursive;
+  --body-font-family:             'Poppins', sans-serif;
 
   --h1-font-size:                 74px;
   --h2-font-size:                 46px;
@@ -43,6 +43,7 @@ https://templatemo.com/tm-585-barber-shop
   --font-weight-normal:           400;
   --font-weight-bold:             700;
 }
+@import url(https://fonts.google.com/specimen/Poppins);
 
 body {
   background-color: var(--white-color);
@@ -351,7 +352,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/client-doing-hair-cut-barber-shop-salon.jpg');
+  background-image: url('../images/Barber giving a haircut.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -453,7 +454,7 @@ strong {
   FEATURED               
 -----------------------------------------*/
 .featured-section {
-  background-image: url('../images/barber-customer-giving-high-five.jpg');
+  background-image: url('../images/Happy client.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -570,7 +571,7 @@ strong {
   BOOKING               
 -----------------------------------------*/
 .booking-section {
-  background-image: url('../images/vintage-chair-barbershop.jpg');
+  background-image: url('../images/barber shop chair.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
